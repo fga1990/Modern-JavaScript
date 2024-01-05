@@ -17,4 +17,7 @@ console.warn({ x });
 
 console.table({ a, b, c, d, x, y, z });
 
+alert('Hola desde app.js')
 document.write('<h1>H1 Label</h1>')
+
+var name = 'Fernando';
